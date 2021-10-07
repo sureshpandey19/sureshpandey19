@@ -3,4 +3,6 @@ To review, git reset is a powerful command that is used to undo local changes to
 
 To review, git reset is a powerful command.
 
-There are three command line options that correspond to the three trees.
+There are three command line options
+
+There are three command line options
