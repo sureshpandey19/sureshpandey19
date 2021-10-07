@@ -1,4 +1,6 @@
 To review, git reset is a powerful command that is used to undo local changes to the state of a Git repo. Git reset operates on "The Three Trees of Git". These trees are the Commit History ( HEAD ), the Staging Index, and the Working Directory. There are three command line options that correspond to the three trees.
 
 
-To review, git reset is a powerful command that is used to undo local changes to the state of a Git repo.
+To review, git reset is a powerful command.
+
+There are three command line options that correspond to the three trees.
