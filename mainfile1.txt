@@ -1,3 +1,4 @@
 iSELECT * FROM ( SELECT distinct '' as UID,(SELECT Name As ChannelName from Channels  where UID=pv.ChannelId  Limit 1) AS ChannelName,(SELECT Audiotrackmapping from Channels  where UID=pv.ChannelId  Limit 1) AS ChannelAudioTrack,(SELECT case when `tagging`='1' then 'showtagging' ELSE 'hidetagging' end  FROM channels WHERE uid =pv.ChannelId LIMIT 1) AS IsViewTagging,pv.ChannelId as ChannelUID,'' as
 
  ChannelAudioTrack,(SELECT case when `tagging`='1' then 'showtagging' ELSE 'hidetagging'
+This is git test for stash no1
