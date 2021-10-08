@@ -1,7 +1,4 @@
 Th
 This is sample test file
-<<<<<<< Updated upstream
 This is sample test3
-=======
 This is stash test 2
->>>>>>> Stashed changes
